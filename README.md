@@ -27,4 +27,8 @@ This is a simple password manager application built using Python and Tkinter. It
    cd password-manager
 2. screenshot
    
+
+https://github.com/Girma35/Password-Manager/assets/143084812/7169d3fa-9d95-4231-bb79-07d1058896ba
+
+
    
