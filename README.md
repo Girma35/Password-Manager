@@ -25,3 +25,6 @@ This is a simple password manager application built using Python and Tkinter. It
    ```sh
    git clone https://github.com/yourusername/password-manager.git
    cd password-manager
+2. screenshot
+   
+   
