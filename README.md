@@ -81,12 +81,3 @@ If you have any suggestions or find any bugs, please feel free to create an issu
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
-
-The badges are now in a table format, and there's a new table under "Tag Details" that includes columns for `Tag`, `Name`, and `Trigger Results`. This should provide a clearer and more organized presentation of information.
-
-3.install dependencies:
-No additional dependencies are required apart from the standard Python library.
-
-
- 
